@@ -1,8 +1,8 @@
 ## Hi there 👋 I am [Dhruv Joshi](..)
-<img src="https://komarev.com/ghpvc/?username=dhruv18MA" />
+<img src="https://komarev.com/ghpvc/?username=name-dhruv" />
 
 
-[![Gmail Badge](https://img.shields.io/badge/-dhruvjoshi43@gmail.com-red?style=flat-pill&logo=Gmail&logoColor=white&link=mailto:dhruvjoshi43@gmail.com)](mailto:dhruvjoshi43@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-dhruvjoshi43@iitkgp.ac.in-red?style=flat-pill&logo=Gmail&logoColor=white&link=mailto:dhruvjoshi43@iitkgp.ac.in)](dhruvjoshi43@iitkgp.ac.in)
 
 
 
