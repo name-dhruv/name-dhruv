@@ -1,4 +1,4 @@
-## Hi there 👋 I am [Dhruv Joshi](..)
+## Hi there 👋 I am [Dhruv Joshi](https://name-dhruv.github.io/my-resume/)
 <img src="https://komarev.com/ghpvc/?username=name-dhruv" />
 
 
